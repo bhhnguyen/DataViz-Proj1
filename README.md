@@ -1,5 +1,6 @@
-Team Name: Stock Junkies
-Group Members: James Barranza, Margeaux Jensen, Wendy Meyer, Benji Nguyen
+**Team Name**: Stock Junkies
+
+**Group Members**: James Barranza, Margeaux Jensen, Wendy Meyer, Benji Nguyen
 
 Broadly, we're interested in the effect of the coronavirus on stock prices across multiple industries. We're interested in observing who's most and least affected and looking at the discrepancies across these various industries. We're interested in looking at average stock differences before and after around December 2019 (or whichever we decide to use as the 'start date' of the epidemic) and plan to analyze this at an industry level (the groupings will be determined by whichever API we settle on using). We'll be looking at information in the months leading up to ~Dec 2019 and will have several months after that to look at the differences.
 
